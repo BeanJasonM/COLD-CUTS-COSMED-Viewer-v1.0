@@ -1,0 +1,15 @@
+BIOPAC AcqKnowledge Text Export
+Synthetic demo only - no PHI or PII
+Sample Rate: 10 Hz
+Channels: 4
+Laser Doppler 1	Laser Doppler 2	Skin Heater 1	Skin Heater 2
+12.1	11.8	33.0	33.2
+12.4	11.9	33.0	33.2
+12.7	12.2	33.1	33.3
+13.1	12.6	33.1	33.3
+15.8	15.0	34.2	34.0
+18.3	17.6	35.1	35.0
+21.0	19.8	36.0	36.1
+19.4	18.6	36.8	36.7
+16.5	15.9	36.9	36.8
+14.2	13.7	36.2	36.1
