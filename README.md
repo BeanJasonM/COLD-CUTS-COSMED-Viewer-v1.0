@@ -1,4 +1,4 @@
-# COLD-CUTS COSMED Viewer v1.0
+# COLD-CUTS Viewer v1.0
 
 A beginner-friendly Python app for exploring COSMED K5 Excel/CSV exports.
 
